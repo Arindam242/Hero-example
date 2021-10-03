@@ -43,14 +43,14 @@ export default function home() {
               </span>
             </Link>
             <Link href="/">
-              <a className="text-home1-h1 font-medium" href="/">
+              <span className="text-home1-h1 font-medium" href="/">
                 Services
-              </a>
+              </span>
             </Link>
             <Link href="/">
-              <a className="text-home1-h1 font-medium" href="/">
+              <span className="text-home1-h1 font-medium" href="/">
                 Contact
-              </a>
+              </span>
             </Link>
           </nav>
           <button className="px-10 py-3 bg-home1-btn text-white rounded-full ">
