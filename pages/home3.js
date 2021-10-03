@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 const home3 = () => {
   return (
@@ -27,28 +28,26 @@ const home3 = () => {
           </div>
           <div className="flex items-center space-x-10">
             <nav className="space-x-5">
-              <a className="text-home1-h1 font-medium" href="/">
-                Home
-              </a>
-              <a className="text-home1-h1 font-medium" href="/">
-                About
-              </a>
-              <a className="text-home1-h1 font-medium" href="/">
-                How it works
-              </a>
-              <a className="text-home1-h1 font-medium" href="/">
-                Services
-              </a>
-              <a className="text-home1-h1 font-medium" href="/">
-                Contact
-              </a>
+              <Link to="/">
+                <span className="text-home1-h1 font-medium">Home</span>
+              </Link>
+
+              <Link to="/">
+                <span className="text-home1-h1 font-medium">About</span>
+              </Link>
+              <Link to="/">
+                <span className="text-home1-h1 font-medium">How it works</span>
+              </Link>
+              <Link to="/">
+                <span className="text-home1-h1 font-medium">Services</span>
+              </Link>
+              <Link to="/">
+                <span className="text-home1-h1 font-medium">Contact</span>
+              </Link>
             </nav>
-            <a
-              className="px-10 py-3 bg-transparent border-2 border-home3-border text-home3-border rounded-full "
-              href="/"
-            >
+            <button className="px-10 py-3 bg-transparent border-2 outline-none border-home3-border text-home3-border rounded-full ">
               Join now
-            </a>
+            </button>
           </div>
         </header>
         <main>
@@ -63,6 +62,7 @@ const home3 = () => {
         className="absolute  right-0"
         src="/Group 490.svg"
         width={900}
+        alt=""
         height={900}
       />
     </div>

@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function home() {
   return (
@@ -26,28 +27,35 @@ export default function home() {
         </div>
         <div className="flex items-center space-x-10">
           <nav className="space-x-5">
-            <a className="text-home1-h1 font-medium" href="/">
-              Home
-            </a>
-            <a className="text-home1-h1 font-medium" href="/">
-              About
-            </a>
-            <a className="text-home1-h1 font-medium" href="/">
-              How it works
-            </a>
-            <a className="text-home1-h1 font-medium" href="/">
-              Services
-            </a>
-            <a className="text-home1-h1 font-medium" href="/">
-              Contact
-            </a>
+            <Link href="/">
+              <span className="text-home1-h1 font-medium" href="/">
+                Home
+              </span>
+            </Link>
+            <Link href="/">
+              <span className="text-home1-h1 font-medium" href="/">
+                About
+              </span>
+            </Link>
+            <Link href="/">
+              <span className="text-home1-h1 font-medium" href="/">
+                How it works
+              </span>
+            </Link>
+            <Link href="/">
+              <a className="text-home1-h1 font-medium" href="/">
+                Services
+              </a>
+            </Link>
+            <Link href="/">
+              <a className="text-home1-h1 font-medium" href="/">
+                Contact
+              </a>
+            </Link>
           </nav>
-          <a
-            className="px-10 py-3 bg-home1-btn text-white rounded-full "
-            href="/"
-          >
+          <button className="px-10 py-3 bg-home1-btn text-white rounded-full ">
             Login
-          </a>
+          </button>
         </div>
       </header>
       <main className="px-28 relative mx-auto flex justify-between items-center">
@@ -62,10 +70,7 @@ export default function home() {
             needs
           </p>
           <div className="flex space-x-4">
-            <a
-              className="px-10 py-3 flex rounded-full space-x-3 text-white bg-gray-200"
-              href="/"
-            >
+            <button className="px-10 py-3 flex rounded-full space-x-3 text-white bg-gray-200">
               <svg
                 width="17"
                 height="20"
@@ -83,11 +88,8 @@ export default function home() {
                 />
               </svg>
               <span className="text-home1-btn">Download app</span>
-            </a>
-            <a
-              className="px-10 py-3 flex rounded-full space-x-3 text-white bg-gray-200"
-              href="/"
-            >
+            </button>
+            <button className="px-10 py-3 flex rounded-full space-x-3 text-white bg-gray-200">
               <svg
                 width="20"
                 height="20"
@@ -114,10 +116,10 @@ export default function home() {
               </svg>
 
               <span className="text-home1-btn">Download app</span>
-            </a>
+            </button>
           </div>
         </div>
-        <Image src="/home1.png" width={600} height={800} />
+        <Image alt="" src="/home1.png" width={600} height={800} />
       </main>
     </div>
   );

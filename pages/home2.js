@@ -53,20 +53,20 @@ export default function home() {
           <path
             d="M567.187 484.896L488.541 503.125"
             stroke="#EECFF8"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M484.375 503.125L511.979 488.542"
             stroke="#EECFF8"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M529.687 504.167L611.458 506.25"
             stroke="#EECFF8"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M507.724 504.188C506.718 504.188 506.718 502.625 507.724 502.625C508.729 502.625 508.734 504.188 507.724 504.188Z"
@@ -95,20 +95,20 @@ export default function home() {
           <path
             d="M362.5 503.385H295.833"
             stroke="#EECFF8"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M284.896 503.385H149.479"
             stroke="#EECFF8"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M325.781 496.615H270.573"
             stroke="#EECFF8"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M221.489 471.469C221.489 471.469 219.739 474.385 209.823 474.969C199.906 475.552 199.906 484.885 194.073 484.885C188.239 484.885 191.156 479.635 193.489 477.302C195.823 474.969 200.489 470.885 200.489 470.885C200.489 470.885 208.073 469.135 210.406 466.219C212.739 463.302 219.156 460.969 219.156 460.969L221.489 471.469Z"
@@ -177,8 +177,8 @@ export default function home() {
           <path
             d="M187.359 435.589C187.359 435.589 185.609 438.505 180.359 439.672"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M197.567 434.714C199.776 429.672 199.89 423.943 197.567 416.62C197.614 416.677 197.651 416.745 197.698 416.802C199.198 418.641 202.427 424.083 201.062 435.88C200.989 436.526 200.958 437.135 200.943 437.729C199.036 438 197.146 438.271 195.37 438.526C196.526 437.068 197.213 435.516 197.567 434.714Z"
@@ -211,44 +211,44 @@ export default function home() {
           <path
             d="M239.864 429.75C238.578 429.75 237.531 428.705 237.531 427.417C237.531 426.128 238.578 425.083 239.864 425.083C241.151 425.083 242.198 426.128 242.198 427.417C242.198 428.705 241.151 429.75 239.864 429.75Z"
             stroke="#0144B9"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M237.963 428.771L237.151 429.521"
             stroke="#0144B9"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M234.114 439.844C234.114 439.844 227.343 447.656 217.969 448.698"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M202.343 435.677C202.343 435.677 201.823 442.969 205.469 445.573"
             stroke="#F1D23C"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M310.677 468.49C310.677 468.49 298.177 468.49 292.969 461.198"
             stroke="#F1D23C"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M269.01 468.49C269.01 468.49 259.635 475.781 248.177 476.823"
             stroke="#EECFF8"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M329.687 156.771H409.375V204.167H329.687V156.771Z"
             stroke="#DEF4FF"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M334.375 151.042H414.062V198.438H334.375V151.042Z"
@@ -257,8 +257,8 @@ export default function home() {
           <path
             d="M322.135 139.323C306.312 139.323 293.489 126.498 293.489 110.677C293.489 94.8562 306.312 82.0312 322.135 82.0312C337.958 82.0312 350.781 94.8562 350.781 110.677C350.781 126.498 337.958 139.323 322.135 139.323Z"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M315.885 139.323C300.062 139.323 287.239 126.498 287.239 110.677C287.239 94.8562 300.062 82.0312 315.885 82.0312C331.708 82.0312 344.531 94.8562 344.531 110.677C344.531 126.498 331.708 139.323 315.885 139.323Z"
@@ -287,20 +287,20 @@ export default function home() {
           <path
             d="M325.521 136.458H312.5"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M325.521 139.323H312.5"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M325.521 142.448H312.5"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M360.937 171.354H430.729V177.083H360.937V171.354Z"
@@ -325,14 +325,14 @@ export default function home() {
           <path
             d="M263.542 133.333H213.541V121.875L208.333 110.937H213.541V99.4791H263.542V133.333Z"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M259.635 104.948C258.771 104.948 258.073 104.248 258.073 103.385C258.073 102.522 258.771 101.823 259.635 101.823C260.5 101.823 261.198 102.522 261.198 103.385C261.198 104.248 260.5 104.948 259.635 104.948Z"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M261.458 148.958C259.443 148.958 257.812 147.326 257.812 145.312C257.812 143.299 259.443 141.667 261.458 141.667C263.474 141.667 265.104 143.299 265.104 145.312C265.104 147.326 263.474 148.958 261.458 148.958Z"
@@ -349,20 +349,20 @@ export default function home() {
           <path
             d="M263.213 187.646C268.073 184.823 274.083 184.865 278.906 187.76C283.724 190.651 289.734 190.698 294.599 187.875L294.984 187.651C299.844 184.828 305.854 184.87 310.677 187.766C315.495 190.656 321.505 190.703 326.37 187.88L326.755 187.656C331.614 184.833 337.625 184.875 342.448 187.771"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M221.094 85.1562C216.781 85.1562 213.281 81.6583 213.281 77.3437C213.281 73.0292 216.781 69.5312 221.094 69.5312C225.406 69.5312 228.906 73.0292 228.906 77.3437C228.906 81.6583 225.406 85.1562 221.094 85.1562Z"
             stroke="#FA404B"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M241.146 164.583H233.854V157.292"
             stroke="#FA404B"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M751.229 339.615C751.229 339.615 758.218 337.557 765.64 337.589C768.661 337.599 771.567 336.458 773.718 334.333C774.588 333.474 775.479 332.344 776.224 331.307C777.307 329.807 779.411 329.5 780.875 330.63C789.422 337.255 814.432 358.307 812.494 376.292C812.364 377.5 810.859 377.984 810.047 377.078C806.687 373.344 798.172 364.708 779.817 350.109C779.817 350.109 766.984 350.109 759.396 355.943C751.807 361.776 751.229 339.615 751.229 339.615Z"
@@ -395,8 +395,8 @@ export default function home() {
           <path
             d="M573.578 306.651L528.656 374.328"
             stroke="#DEF4FF"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M528.364 407.292C550.536 393.292 555.203 373.453 573.869 345.448C582.552 332.422 593.255 323.818 602.218 318.333C614.703 310.698 620.781 295.875 617.109 281.708C615.166 274.208 612.75 266.734 610.573 260.531L624.625 253.849C624.625 253.849 625.875 253.922 627.838 254.318L628.125 254.432L643.75 262.37C648.958 267.432 652.958 275.484 652.047 288.271C649.713 320.943 600.125 337.859 600.125 337.859C600.125 337.859 596.041 339.609 582.041 362.948C568.041 386.286 486.942 471.464 486.359 474.964C485.776 478.464 486.942 479.047 482.859 480.797C480.901 481.635 476.385 477.234 472.218 472.427C483.041 456.865 510.817 418.375 528.364 407.292Z"
@@ -473,8 +473,8 @@ export default function home() {
           <path
             d="M789.442 262.896C789.442 262.896 723.515 248.896 669.843 280.396C661.984 285.01 595.75 349.823 451.062 389.495C392.578 405.531 242.198 426.833 242.198 426.833"
             stroke="#0144B9"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M653.213 212.427C653.213 212.427 676.281 249.677 681.083 261.682C681.083 261.682 673.047 266.104 671.297 268.437C669.547 270.771 666.047 279.521 660.213 281.854C660.213 281.854 664.297 285.354 667.213 283.021C670.13 280.687 670.13 280.687 670.13 280.687L667.213 284.187C667.213 284.187 670.713 288.854 673.047 288.271C675.38 287.687 674.797 288.854 677.713 288.271C680.63 287.687 682.38 285.937 682.38 285.937C682.38 285.937 682.38 287.687 684.13 287.104C685.479 286.656 691.312 280.125 693.932 276.594C694.744 275.5 695.015 274.094 694.672 272.776L691.713 261.432C691.713 261.432 688.213 214.177 674.797 194.339C674.802 194.344 649.13 202.51 653.213 212.427Z"
@@ -499,26 +499,26 @@ export default function home() {
           <path
             d="M485.297 267.484H491.781C492.239 267.484 492.604 267.115 492.604 266.661V266.464C492.604 266.005 492.234 265.641 491.781 265.641H485.297C484.838 265.641 484.474 266.01 484.474 266.464V266.661C484.468 267.115 484.838 267.484 485.297 267.484Z"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M396.734 267.667H403.219C403.677 267.667 404.042 267.297 404.042 266.844V266.646C404.042 266.188 403.672 265.823 403.219 265.823H396.734C396.276 265.823 395.911 266.193 395.911 266.646V266.844C395.906 267.297 396.276 267.667 396.734 267.667Z"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M498.791 267.667H505.276C505.734 267.667 506.099 267.297 506.099 266.844V266.646C506.099 266.188 505.729 265.823 505.276 265.823H498.791C498.333 265.823 497.968 266.193 497.968 266.646V266.844C497.968 267.297 498.338 267.667 498.791 267.667Z"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M480.302 267.667H480.5C480.958 267.667 481.323 267.297 481.323 266.844V266.646C481.323 266.188 480.953 265.823 480.5 265.823H480.302C479.844 265.823 479.479 266.193 479.479 266.646V266.844C479.479 267.297 479.849 267.667 480.302 267.667Z"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M370.698 195.109C371.104 194.812 371.604 194.635 372.156 194.635H451.614C452.687 194.635 453.635 195.323 453.968 196.338L474.646 259.042L370.698 195.109Z"
@@ -527,8 +527,8 @@ export default function home() {
           <path
             d="M384.052 199.479L409.198 215.01"
             stroke="white"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M440.854 272.521L427.234 270.969C427.234 270.969 418.364 260.729 413.859 259.042C413.859 259.042 416.937 256.188 423.937 262.021C430.937 267.854 430.354 267.271 430.354 267.271H437.937L440.854 272.521Z"
@@ -557,68 +557,68 @@ export default function home() {
           <path
             d="M539.155 161.38C539.155 161.38 540.322 181.219 574.796 212.594"
             stroke="white"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M530.406 91.3698C530.406 91.3698 532.156 100.703 539.156 105.37"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M534.489 93.7031C534.489 93.7031 537.406 101.286 548.489 106.536"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M466.521 459.797C466.521 459.797 473.521 472.047 482.271 477.297"
             stroke="#DEF4FF"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M762.021 353.906C762.021 353.906 760.547 344.094 753.989 339.375"
             stroke="#DEF4FF"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M149.479 357.552C147.323 357.552 145.573 355.803 145.573 353.646C145.573 351.488 147.323 349.74 149.479 349.74C151.635 349.74 153.385 351.488 153.385 353.646C153.385 355.803 151.635 357.552 149.479 357.552Z"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M827.597 201.231L832.626 202.584L831.273 207.613L826.244 206.26L827.597 201.231Z"
             stroke="#FA404B"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M414.323 324.74C414.323 324.74 395.573 303.906 368.489 315.365"
             stroke="#FA404B"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M785.156 400.781L793.489 413.281"
             stroke="#FA404B"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M715.364 86.7188L707.552 92.4479"
             stroke="#FA404B"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <path
             d="M216.229 277.375C210.182 278.833 203.349 276.031 200.062 270.745C198.859 268.807 198.109 266.609 196.896 264.672C194.656 261.104 190.807 258.589 186.64 257.969"
             stroke="#0061FE"
-            stroke-width="0.385417"
-            stroke-miterlimit="10"
+            strokeWidth="0.385417"
+            strokeMiterlimit="10"
           />
           <defs>
             <radialGradient
@@ -629,8 +629,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(549.172 107.22) rotate(180) scale(525.813)"
             >
-              <stop stop-color="#EECFF8" />
-              <stop offset="0.9011" stop-color="white" stop-opacity="0" />
+              <stop stopColor="#EECFF8" />
+              <stop offset="0.9011" stopColor="white" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint1_radial"
@@ -640,12 +640,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(187.354 501.43) rotate(180) scale(67.2653 67.2652)"
             >
-              <stop
-                offset="0.3231"
-                stop-color="#C184A8"
-                stop-opacity="0.2102"
-              />
-              <stop offset="0.9171" stop-color="#0061FE" />
+              <stop offset="0.3231" stopColor="#C184A8" stopOpacity="0.2102" />
+              <stop offset="0.9171" stopColor="#0061FE" />
             </radialGradient>
             <radialGradient
               id="paint2_radial"
@@ -655,29 +651,13 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(192.88 486.617) rotate(180) scale(28.5371)"
             >
-              <stop offset="0.1043" stop-color="#FFDE99" />
-              <stop
-                offset="0.1056"
-                stop-color="#FFDE99"
-                stop-opacity="0.9985"
-              />
-              <stop offset="0.268" stop-color="#E9BD9E" stop-opacity="0.8173" />
-              <stop
-                offset="0.4348"
-                stop-color="#D7A4A3"
-                stop-opacity="0.6311"
-              />
-              <stop
-                offset="0.6085"
-                stop-color="#CB92A6"
-                stop-opacity="0.4371"
-              />
-              <stop
-                offset="0.7917"
-                stop-color="#C387A7"
-                stop-opacity="0.2326"
-              />
-              <stop offset="1" stop-color="#C184A8" stop-opacity="0" />
+              <stop offset="0.1043" stopColor="#FFDE99" />
+              <stop offset="0.1056" stopColor="#FFDE99" stopOpacity="0.9985" />
+              <stop offset="0.268" stopColor="#E9BD9E" stopOpacity="0.8173" />
+              <stop offset="0.4348" stopColor="#D7A4A3" stopOpacity="0.6311" />
+              <stop offset="0.6085" stopColor="#CB92A6" stopOpacity="0.4371" />
+              <stop offset="0.7917" stopColor="#C387A7" stopOpacity="0.2326" />
+              <stop offset="1" stopColor="#C184A8" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint3_radial"
@@ -687,12 +667,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(288.094 518.895) rotate(180) scale(74.6933 74.6931)"
             >
-              <stop
-                offset="0.3231"
-                stop-color="#C184A8"
-                stop-opacity="0.2102"
-              />
-              <stop offset="0.9171" stop-color="#0061FE" />
+              <stop offset="0.3231" stopColor="#C184A8" stopOpacity="0.2102" />
+              <stop offset="0.9171" stopColor="#0061FE" />
             </radialGradient>
             <radialGradient
               id="paint4_radial"
@@ -702,29 +678,13 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(285.958 499.661) rotate(180) scale(48.3427 48.3426)"
             >
-              <stop offset="0.1043" stop-color="#FFDE99" />
-              <stop
-                offset="0.1056"
-                stop-color="#FFDE99"
-                stop-opacity="0.9985"
-              />
-              <stop offset="0.268" stop-color="#E9BD9E" stop-opacity="0.8173" />
-              <stop
-                offset="0.4348"
-                stop-color="#D7A4A3"
-                stop-opacity="0.6311"
-              />
-              <stop
-                offset="0.6085"
-                stop-color="#CB92A6"
-                stop-opacity="0.4371"
-              />
-              <stop
-                offset="0.7917"
-                stop-color="#C387A7"
-                stop-opacity="0.2326"
-              />
-              <stop offset="1" stop-color="#C184A8" stop-opacity="0" />
+              <stop offset="0.1043" stopColor="#FFDE99" />
+              <stop offset="0.1056" stopColor="#FFDE99" stopOpacity="0.9985" />
+              <stop offset="0.268" stopColor="#E9BD9E" stopOpacity="0.8173" />
+              <stop offset="0.4348" stopColor="#D7A4A3" stopOpacity="0.6311" />
+              <stop offset="0.6085" stopColor="#CB92A6" stopOpacity="0.4371" />
+              <stop offset="0.7917" stopColor="#C387A7" stopOpacity="0.2326" />
+              <stop offset="1" stopColor="#C184A8" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint5_radial"
@@ -734,12 +694,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(223.724 414.875) rotate(180) scale(39.9153)"
             >
-              <stop
-                offset="0.3231"
-                stop-color="#C184A8"
-                stop-opacity="0.2102"
-              />
-              <stop offset="0.9171" stop-color="#0061FE" />
+              <stop offset="0.3231" stopColor="#C184A8" stopOpacity="0.2102" />
+              <stop offset="0.9171" stopColor="#0061FE" />
             </radialGradient>
             <radialGradient
               id="paint6_radial"
@@ -749,12 +705,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(245.208 469.79) rotate(-167.214) scale(229.955 84.0189)"
             >
-              <stop
-                offset="0.3231"
-                stop-color="#C184A8"
-                stop-opacity="0.2102"
-              />
-              <stop offset="0.9171" stop-color="#0061FE" />
+              <stop offset="0.3231" stopColor="#C184A8" stopOpacity="0.2102" />
+              <stop offset="0.9171" stopColor="#0061FE" />
             </radialGradient>
             <radialGradient
               id="paint7_radial"
@@ -764,29 +716,13 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(325.312 497.229) rotate(180) scale(46.1853 46.1856)"
             >
-              <stop offset="0.1043" stop-color="#FFDE99" />
-              <stop
-                offset="0.1056"
-                stop-color="#FFDE99"
-                stop-opacity="0.9985"
-              />
-              <stop offset="0.268" stop-color="#E9BD9E" stop-opacity="0.8173" />
-              <stop
-                offset="0.4348"
-                stop-color="#D7A4A3"
-                stop-opacity="0.6311"
-              />
-              <stop
-                offset="0.6085"
-                stop-color="#CB92A6"
-                stop-opacity="0.4371"
-              />
-              <stop
-                offset="0.7917"
-                stop-color="#C387A7"
-                stop-opacity="0.2326"
-              />
-              <stop offset="1" stop-color="#C184A8" stop-opacity="0" />
+              <stop offset="0.1043" stopColor="#FFDE99" />
+              <stop offset="0.1056" stopColor="#FFDE99" stopOpacity="0.9985" />
+              <stop offset="0.268" stopColor="#E9BD9E" stopOpacity="0.8173" />
+              <stop offset="0.4348" stopColor="#D7A4A3" stopOpacity="0.6311" />
+              <stop offset="0.6085" stopColor="#CB92A6" stopOpacity="0.4371" />
+              <stop offset="0.7917" stopColor="#C387A7" stopOpacity="0.2326" />
+              <stop offset="1" stopColor="#C184A8" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint8_radial"
@@ -796,29 +732,13 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(222.062 497.892) rotate(180) scale(28.9316 28.9318)"
             >
-              <stop offset="0.1043" stop-color="#FFDE99" />
-              <stop
-                offset="0.1056"
-                stop-color="#FFDE99"
-                stop-opacity="0.9985"
-              />
-              <stop offset="0.268" stop-color="#E9BD9E" stop-opacity="0.8173" />
-              <stop
-                offset="0.4348"
-                stop-color="#D7A4A3"
-                stop-opacity="0.6311"
-              />
-              <stop
-                offset="0.6085"
-                stop-color="#CB92A6"
-                stop-opacity="0.4371"
-              />
-              <stop
-                offset="0.7917"
-                stop-color="#C387A7"
-                stop-opacity="0.2326"
-              />
-              <stop offset="1" stop-color="#C184A8" stop-opacity="0" />
+              <stop offset="0.1043" stopColor="#FFDE99" />
+              <stop offset="0.1056" stopColor="#FFDE99" stopOpacity="0.9985" />
+              <stop offset="0.268" stopColor="#E9BD9E" stopOpacity="0.8173" />
+              <stop offset="0.4348" stopColor="#D7A4A3" stopOpacity="0.6311" />
+              <stop offset="0.6085" stopColor="#CB92A6" stopOpacity="0.4371" />
+              <stop offset="0.7917" stopColor="#C387A7" stopOpacity="0.2326" />
+              <stop offset="1" stopColor="#C184A8" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint9_radial"
@@ -828,29 +748,13 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(183.859 442.264) rotate(-162.513) scale(66.8868 45.0223)"
             >
-              <stop offset="0.1043" stop-color="#FFDE99" />
-              <stop
-                offset="0.1056"
-                stop-color="#FFDE99"
-                stop-opacity="0.9985"
-              />
-              <stop offset="0.268" stop-color="#E9BD9E" stop-opacity="0.8173" />
-              <stop
-                offset="0.4348"
-                stop-color="#D7A4A3"
-                stop-opacity="0.6311"
-              />
-              <stop
-                offset="0.6085"
-                stop-color="#CB92A6"
-                stop-opacity="0.4371"
-              />
-              <stop
-                offset="0.7917"
-                stop-color="#C387A7"
-                stop-opacity="0.2326"
-              />
-              <stop offset="1" stop-color="#C184A8" stop-opacity="0" />
+              <stop offset="0.1043" stopColor="#FFDE99" />
+              <stop offset="0.1056" stopColor="#FFDE99" stopOpacity="0.9985" />
+              <stop offset="0.268" stopColor="#E9BD9E" stopOpacity="0.8173" />
+              <stop offset="0.4348" stopColor="#D7A4A3" stopOpacity="0.6311" />
+              <stop offset="0.6085" stopColor="#CB92A6" stopOpacity="0.4371" />
+              <stop offset="0.7917" stopColor="#C387A7" stopOpacity="0.2326" />
+              <stop offset="1" stopColor="#C184A8" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint10_radial"
@@ -860,18 +764,18 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(212.338 453.454) rotate(180) scale(36.3964 36.3966)"
             >
-              <stop stop-color="#0061FE" />
-              <stop offset="0.0175" stop-color="#1B66F2" />
-              <stop offset="0.0482" stop-color="#466EDF" />
-              <stop offset="0.0825" stop-color="#6C75CE" />
-              <stop offset="0.1196" stop-color="#8D7BBF" />
-              <stop offset="0.1604" stop-color="#A980B3" />
-              <stop offset="0.2062" stop-color="#C084A9" />
-              <stop offset="0.2592" stop-color="#D187A1" />
-              <stop offset="0.3238" stop-color="#DD899C" />
-              <stop offset="0.4126" stop-color="#E48B99" />
-              <stop offset="0.639" stop-color="#E68B98" />
-              <stop offset="1" stop-color="#FB8F8F" stop-opacity="0" />
+              <stop stopColor="#0061FE" />
+              <stop offset="0.0175" stopColor="#1B66F2" />
+              <stop offset="0.0482" stopColor="#466EDF" />
+              <stop offset="0.0825" stopColor="#6C75CE" />
+              <stop offset="0.1196" stopColor="#8D7BBF" />
+              <stop offset="0.1604" stopColor="#A980B3" />
+              <stop offset="0.2062" stopColor="#C084A9" />
+              <stop offset="0.2592" stopColor="#D187A1" />
+              <stop offset="0.3238" stopColor="#DD899C" />
+              <stop offset="0.4126" stopColor="#E48B99" />
+              <stop offset="0.639" stopColor="#E68B98" />
+              <stop offset="1" stopColor="#FB8F8F" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint11_radial"
@@ -881,48 +785,16 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(193.489 419.462) rotate(180) scale(9.76347 9.76332)"
             >
-              <stop stop-color="#0144B9" />
-              <stop
-                offset="0.0286"
-                stop-color="#0C47B7"
-                stop-opacity="0.9606"
-              />
-              <stop
-                offset="0.2403"
-                stop-color="#5C5FAA"
-                stop-opacity="0.6686"
-              />
-              <stop
-                offset="0.3908"
-                stop-color="#8E6EA1"
-                stop-opacity="0.4611"
-              />
-              <stop
-                offset="0.4648"
-                stop-color="#A1749E"
-                stop-opacity="0.3591"
-              />
-              <stop
-                offset="0.4868"
-                stop-color="#A7769D"
-                stop-opacity="0.3443"
-              />
-              <stop
-                offset="0.6368"
-                stop-color="#CB8197"
-                stop-opacity="0.2437"
-              />
-              <stop
-                offset="0.7768"
-                stop-color="#E68993"
-                stop-opacity="0.1497"
-              />
-              <stop
-                offset="0.9021"
-                stop-color="#F58D90"
-                stop-opacity="0.0657"
-              />
-              <stop offset="1" stop-color="#FB8F8F" stop-opacity="0" />
+              <stop stopColor="#0144B9" />
+              <stop offset="0.0286" stopColor="#0C47B7" stopOpacity="0.9606" />
+              <stop offset="0.2403" stopColor="#5C5FAA" stopOpacity="0.6686" />
+              <stop offset="0.3908" stopColor="#8E6EA1" stopOpacity="0.4611" />
+              <stop offset="0.4648" stopColor="#A1749E" stopOpacity="0.3591" />
+              <stop offset="0.4868" stopColor="#A7769D" stopOpacity="0.3443" />
+              <stop offset="0.6368" stopColor="#CB8197" stopOpacity="0.2437" />
+              <stop offset="0.7768" stopColor="#E68993" stopOpacity="0.1497" />
+              <stop offset="0.9021" stopColor="#F58D90" stopOpacity="0.0657" />
+              <stop offset="1" stopColor="#FB8F8F" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint12_radial"
@@ -932,34 +804,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(152.058 450.506) rotate(180) scale(29.8413 29.8425)"
             >
-              <stop offset="0.3176" stop-color="#FB8F8F" stop-opacity="0" />
-              <stop
-                offset="0.3846"
-                stop-color="#F58D90"
-                stop-opacity="0.0982"
-              />
-              <stop
-                offset="0.4703"
-                stop-color="#E58993"
-                stop-opacity="0.2238"
-              />
-              <stop
-                offset="0.5662"
-                stop-color="#CB8197"
-                stop-opacity="0.3644"
-              />
-              <stop
-                offset="0.6696"
-                stop-color="#A6769D"
-                stop-opacity="0.5158"
-              />
-              <stop offset="0.779" stop-color="#7768A5" stop-opacity="0.6762" />
-              <stop
-                offset="0.8915"
-                stop-color="#3F57AF"
-                stop-opacity="0.8411"
-              />
-              <stop offset="1" stop-color="#0144B9" />
+              <stop offset="0.3176" stopColor="#FB8F8F" stopOpacity="0" />
+              <stop offset="0.3846" stopColor="#F58D90" stopOpacity="0.0982" />
+              <stop offset="0.4703" stopColor="#E58993" stopOpacity="0.2238" />
+              <stop offset="0.5662" stopColor="#CB8197" stopOpacity="0.3644" />
+              <stop offset="0.6696" stopColor="#A6769D" stopOpacity="0.5158" />
+              <stop offset="0.779" stopColor="#7768A5" stopOpacity="0.6762" />
+              <stop offset="0.8915" stopColor="#3F57AF" stopOpacity="0.8411" />
+              <stop offset="1" stopColor="#0144B9" />
             </radialGradient>
             <radialGradient
               id="paint13_radial"
@@ -969,34 +821,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(190.89 431.899) rotate(180) scale(12.9532 12.9537)"
             >
-              <stop offset="0.3176" stop-color="#FB8F8F" stop-opacity="0" />
-              <stop
-                offset="0.3846"
-                stop-color="#F58D90"
-                stop-opacity="0.0982"
-              />
-              <stop
-                offset="0.4703"
-                stop-color="#E58993"
-                stop-opacity="0.2238"
-              />
-              <stop
-                offset="0.5662"
-                stop-color="#CB8197"
-                stop-opacity="0.3644"
-              />
-              <stop
-                offset="0.6696"
-                stop-color="#A6769D"
-                stop-opacity="0.5158"
-              />
-              <stop offset="0.779" stop-color="#7768A5" stop-opacity="0.6762" />
-              <stop
-                offset="0.8915"
-                stop-color="#3F57AF"
-                stop-opacity="0.8411"
-              />
-              <stop offset="1" stop-color="#0144B9" />
+              <stop offset="0.3176" stopColor="#FB8F8F" stopOpacity="0" />
+              <stop offset="0.3846" stopColor="#F58D90" stopOpacity="0.0982" />
+              <stop offset="0.4703" stopColor="#E58993" stopOpacity="0.2238" />
+              <stop offset="0.5662" stopColor="#CB8197" stopOpacity="0.3644" />
+              <stop offset="0.6696" stopColor="#A6769D" stopOpacity="0.5158" />
+              <stop offset="0.779" stopColor="#7768A5" stopOpacity="0.6762" />
+              <stop offset="0.8915" stopColor="#3F57AF" stopOpacity="0.8411" />
+              <stop offset="1" stopColor="#0144B9" />
             </radialGradient>
             <radialGradient
               id="paint14_radial"
@@ -1006,34 +838,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(194.791 427.777) rotate(77.9117) scale(15.9175 8.40819)"
             >
-              <stop offset="0.3176" stop-color="#FB8F8F" stop-opacity="0" />
-              <stop
-                offset="0.3846"
-                stop-color="#F58D90"
-                stop-opacity="0.0982"
-              />
-              <stop
-                offset="0.4703"
-                stop-color="#E58993"
-                stop-opacity="0.2238"
-              />
-              <stop
-                offset="0.5662"
-                stop-color="#CB8197"
-                stop-opacity="0.3644"
-              />
-              <stop
-                offset="0.6696"
-                stop-color="#A6769D"
-                stop-opacity="0.5158"
-              />
-              <stop offset="0.779" stop-color="#7768A5" stop-opacity="0.6762" />
-              <stop
-                offset="0.8915"
-                stop-color="#3F57AF"
-                stop-opacity="0.8411"
-              />
-              <stop offset="1" stop-color="#0144B9" />
+              <stop offset="0.3176" stopColor="#FB8F8F" stopOpacity="0" />
+              <stop offset="0.3846" stopColor="#F58D90" stopOpacity="0.0982" />
+              <stop offset="0.4703" stopColor="#E58993" stopOpacity="0.2238" />
+              <stop offset="0.5662" stopColor="#CB8197" stopOpacity="0.3644" />
+              <stop offset="0.6696" stopColor="#A6769D" stopOpacity="0.5158" />
+              <stop offset="0.779" stopColor="#7768A5" stopOpacity="0.6762" />
+              <stop offset="0.8915" stopColor="#3F57AF" stopOpacity="0.8411" />
+              <stop offset="1" stopColor="#0144B9" />
             </radialGradient>
             <radialGradient
               id="paint15_radial"
@@ -1043,12 +855,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(273.797 495.755) rotate(180) scale(77.9321 77.9324)"
             >
-              <stop
-                offset="0.3231"
-                stop-color="#C184A8"
-                stop-opacity="0.2102"
-              />
-              <stop offset="0.9171" stop-color="#0061FE" />
+              <stop offset="0.3231" stopColor="#C184A8" stopOpacity="0.2102" />
+              <stop offset="0.9171" stopColor="#0061FE" />
             </radialGradient>
             <radialGradient
               id="paint16_radial"
@@ -1058,44 +866,16 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(371.146 103.668) rotate(180) scale(217.119 217.118)"
             >
-              <stop stop-color="#0061FE" />
-              <stop
-                offset="0.0281"
-                stop-color="#106CFE"
-                stop-opacity="0.9719"
-              />
-              <stop
-                offset="0.1219"
-                stop-color="#408BFE"
-                stop-opacity="0.8781"
-              />
-              <stop
-                offset="0.2211"
-                stop-color="#6AA7FE"
-                stop-opacity="0.7789"
-              />
-              <stop
-                offset="0.3241"
-                stop-color="#8EBFFF"
-                stop-opacity="0.6759"
-              />
-              <stop
-                offset="0.4318"
-                stop-color="#ABD2FF"
-                stop-opacity="0.5682"
-              />
-              <stop offset="0.546" stop-color="#C2E1FF" stop-opacity="0.454" />
-              <stop
-                offset="0.6696"
-                stop-color="#D2ECFF"
-                stop-opacity="0.3304"
-              />
-              <stop
-                offset="0.8094"
-                stop-color="#DBF2FF"
-                stop-opacity="0.1906"
-              />
-              <stop offset="1" stop-color="#DEF4FF" stop-opacity="0" />
+              <stop stopColor="#0061FE" />
+              <stop offset="0.0281" stopColor="#106CFE" stopOpacity="0.9719" />
+              <stop offset="0.1219" stopColor="#408BFE" stopOpacity="0.8781" />
+              <stop offset="0.2211" stopColor="#6AA7FE" stopOpacity="0.7789" />
+              <stop offset="0.3241" stopColor="#8EBFFF" stopOpacity="0.6759" />
+              <stop offset="0.4318" stopColor="#ABD2FF" stopOpacity="0.5682" />
+              <stop offset="0.546" stopColor="#C2E1FF" stopOpacity="0.454" />
+              <stop offset="0.6696" stopColor="#D2ECFF" stopOpacity="0.3304" />
+              <stop offset="0.8094" stopColor="#DBF2FF" stopOpacity="0.1906" />
+              <stop offset="1" stopColor="#DEF4FF" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint17_radial"
@@ -1105,8 +885,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(367.458 129.2) rotate(180) scale(44.317)"
             >
-              <stop stop-color="#FB8F8F" />
-              <stop offset="1" stop-color="#F9C1DA" stop-opacity="0" />
+              <stop stopColor="#FB8F8F" />
+              <stop offset="1" stopColor="#F9C1DA" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint18_radial"
@@ -1116,8 +896,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(361.666 115.461) rotate(180) scale(68.3546 68.3547)"
             >
-              <stop stop-color="#FB8F8F" />
-              <stop offset="1" stop-color="#F9C1DA" stop-opacity="0" />
+              <stop stopColor="#FB8F8F" />
+              <stop offset="1" stopColor="#F9C1DA" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint19_radial"
@@ -1127,8 +907,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(355.156 108.43) rotate(180) scale(68.3547)"
             >
-              <stop stop-color="#FB8F8F" />
-              <stop offset="1" stop-color="#F9C1DA" stop-opacity="0" />
+              <stop stopColor="#FB8F8F" />
+              <stop offset="1" stopColor="#F9C1DA" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint20_radial"
@@ -1138,44 +918,16 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(370.932 160.504) rotate(180) scale(160.821 105.615)"
             >
-              <stop stop-color="#0061FE" />
-              <stop
-                offset="0.0281"
-                stop-color="#106CFE"
-                stop-opacity="0.9719"
-              />
-              <stop
-                offset="0.1219"
-                stop-color="#408BFE"
-                stop-opacity="0.8781"
-              />
-              <stop
-                offset="0.2211"
-                stop-color="#6AA7FE"
-                stop-opacity="0.7789"
-              />
-              <stop
-                offset="0.3241"
-                stop-color="#8EBFFF"
-                stop-opacity="0.6759"
-              />
-              <stop
-                offset="0.4318"
-                stop-color="#ABD2FF"
-                stop-opacity="0.5682"
-              />
-              <stop offset="0.546" stop-color="#C2E1FF" stop-opacity="0.454" />
-              <stop
-                offset="0.6696"
-                stop-color="#D2ECFF"
-                stop-opacity="0.3304"
-              />
-              <stop
-                offset="0.8094"
-                stop-color="#DBF2FF"
-                stop-opacity="0.1906"
-              />
-              <stop offset="1" stop-color="#DEF4FF" stop-opacity="0" />
+              <stop stopColor="#0061FE" />
+              <stop offset="0.0281" stopColor="#106CFE" stopOpacity="0.9719" />
+              <stop offset="0.1219" stopColor="#408BFE" stopOpacity="0.8781" />
+              <stop offset="0.2211" stopColor="#6AA7FE" stopOpacity="0.7789" />
+              <stop offset="0.3241" stopColor="#8EBFFF" stopOpacity="0.6759" />
+              <stop offset="0.4318" stopColor="#ABD2FF" stopOpacity="0.5682" />
+              <stop offset="0.546" stopColor="#C2E1FF" stopOpacity="0.454" />
+              <stop offset="0.6696" stopColor="#D2ECFF" stopOpacity="0.3304" />
+              <stop offset="0.8094" stopColor="#DBF2FF" stopOpacity="0.1906" />
+              <stop offset="1" stopColor="#DEF4FF" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint21_radial"
@@ -1185,44 +937,16 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(370.932 169.358) rotate(180) scale(160.821 105.615)"
             >
-              <stop stop-color="#0061FE" />
-              <stop
-                offset="0.0281"
-                stop-color="#106CFE"
-                stop-opacity="0.9719"
-              />
-              <stop
-                offset="0.1219"
-                stop-color="#408BFE"
-                stop-opacity="0.8781"
-              />
-              <stop
-                offset="0.2211"
-                stop-color="#6AA7FE"
-                stop-opacity="0.7789"
-              />
-              <stop
-                offset="0.3241"
-                stop-color="#8EBFFF"
-                stop-opacity="0.6759"
-              />
-              <stop
-                offset="0.4318"
-                stop-color="#ABD2FF"
-                stop-opacity="0.5682"
-              />
-              <stop offset="0.546" stop-color="#C2E1FF" stop-opacity="0.454" />
-              <stop
-                offset="0.6696"
-                stop-color="#D2ECFF"
-                stop-opacity="0.3304"
-              />
-              <stop
-                offset="0.8094"
-                stop-color="#DBF2FF"
-                stop-opacity="0.1906"
-              />
-              <stop offset="1" stop-color="#DEF4FF" stop-opacity="0" />
+              <stop stopColor="#0061FE" />
+              <stop offset="0.0281" stopColor="#106CFE" stopOpacity="0.9719" />
+              <stop offset="0.1219" stopColor="#408BFE" stopOpacity="0.8781" />
+              <stop offset="0.2211" stopColor="#6AA7FE" stopOpacity="0.7789" />
+              <stop offset="0.3241" stopColor="#8EBFFF" stopOpacity="0.6759" />
+              <stop offset="0.4318" stopColor="#ABD2FF" stopOpacity="0.5682" />
+              <stop offset="0.546" stopColor="#C2E1FF" stopOpacity="0.454" />
+              <stop offset="0.6696" stopColor="#D2ECFF" stopOpacity="0.3304" />
+              <stop offset="0.8094" stopColor="#DBF2FF" stopOpacity="0.1906" />
+              <stop offset="1" stopColor="#DEF4FF" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint22_radial"
@@ -1232,34 +956,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(774.627 314.319) rotate(180) scale(72.6193)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint23_radial"
@@ -1269,8 +973,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(660.696 292.505) rotate(180) scale(138.031)"
             >
-              <stop offset="0.00534759" stop-color="#241921" />
-              <stop offset="1" stop-color="#0061FE" stop-opacity="0" />
+              <stop offset="0.00534759" stopColor="#241921" />
+              <stop offset="1" stopColor="#0061FE" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint24_radial"
@@ -1280,34 +984,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(483.386 483.522) rotate(180) scale(49.3127)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint25_radial"
@@ -1317,8 +1001,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(723.925 230.159) rotate(180) scale(238.687)"
             >
-              <stop offset="0.00534759" stop-color="#241921" />
-              <stop offset="1" stop-color="#0061FE" stop-opacity="0" />
+              <stop offset="0.00534759" stopColor="#241921" />
+              <stop offset="1" stopColor="#0061FE" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint26_radial"
@@ -1328,8 +1012,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(563.418 505.188) rotate(180) scale(146.237)"
             >
-              <stop offset="0.00534759" stop-color="#241921" />
-              <stop offset="1" stop-color="#0061FE" stop-opacity="0" />
+              <stop offset="0.00534759" stopColor="#241921" />
+              <stop offset="1" stopColor="#0061FE" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint27_radial"
@@ -1339,14 +1023,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(435.187 263.101) rotate(180) scale(31.3221 31.3225)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" />
-              <stop offset="0.1916" stop-color="#FC7565" />
-              <stop offset="0.3589" stop-color="#FD9B78" />
-              <stop offset="0.5244" stop-color="#FEB886" />
-              <stop offset="0.6876" stop-color="#FECD91" />
-              <stop offset="0.8474" stop-color="#FFDA97" />
-              <stop offset="1" stop-color="#FFDE99" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" />
+              <stop offset="0.1916" stopColor="#FC7565" />
+              <stop offset="0.3589" stopColor="#FD9B78" />
+              <stop offset="0.5244" stopColor="#FEB886" />
+              <stop offset="0.6876" stopColor="#FECD91" />
+              <stop offset="0.8474" stopColor="#FFDA97" />
+              <stop offset="1" stopColor="#FFDE99" />
             </radialGradient>
             <radialGradient
               id="paint28_radial"
@@ -1356,34 +1040,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(491.222 266.325) rotate(175.394) scale(29.6892 14.3114)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint29_radial"
@@ -1393,8 +1057,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(570.493 183.29) rotate(180) scale(134.006 134.006)"
             >
-              <stop stop-color="#FB8F8F" />
-              <stop offset="1" stop-color="#F9C1DA" stop-opacity="0" />
+              <stop stopColor="#FB8F8F" />
+              <stop offset="1" stopColor="#F9C1DA" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint30_radial"
@@ -1404,34 +1068,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(525.171 146.147) rotate(180) scale(33.4021)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint31_radial"
@@ -1441,34 +1085,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(552.069 102.078) rotate(180) scale(43.5285)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint32_radial"
@@ -1478,34 +1102,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(514.043 107.384) rotate(180) scale(32.4557)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint33_radial"
@@ -1515,8 +1119,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(468.645 95.0031) rotate(180) scale(92.7546)"
             >
-              <stop stop-color="#0061FE" />
-              <stop offset="0.9947" stop-color="#241921" />
+              <stop stopColor="#0061FE" />
+              <stop offset="0.9947" stopColor="#241921" />
             </radialGradient>
             <radialGradient
               id="paint34_radial"
@@ -1526,8 +1130,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(694.3 191.248) rotate(180) scale(159.292)"
             >
-              <stop stop-color="#FB8F8F" />
-              <stop offset="1" stop-color="#F9C1DA" stop-opacity="0" />
+              <stop stopColor="#FB8F8F" />
+              <stop offset="1" stopColor="#F9C1DA" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint35_radial"
@@ -1537,8 +1141,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(524.065 155.875) rotate(180) scale(79.5473)"
             >
-              <stop stop-color="white" />
-              <stop offset="1" stop-color="#F1D23C" stop-opacity="0" />
+              <stop stopColor="white" />
+              <stop offset="1" stopColor="#F1D23C" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint36_radial"
@@ -1548,34 +1152,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(698.279 183.142) rotate(180) scale(88.2338)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
             <linearGradient
               id="paint37_linear"
@@ -1585,8 +1169,8 @@ export default function home() {
               y2="251.709"
               gradientUnits="userSpaceOnUse"
             >
-              <stop offset="0.1791" stop-color="#F9C1DA" />
-              <stop offset="1" stop-color="#EECFF8" stop-opacity="0" />
+              <stop offset="0.1791" stopColor="#F9C1DA" />
+              <stop offset="1" stopColor="#EECFF8" stopOpacity="0" />
             </linearGradient>
             <radialGradient
               id="paint38_radial"
@@ -1596,34 +1180,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(436.182 265.975) rotate(180) scale(12.4298 12.43)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint39_radial"
@@ -1633,8 +1197,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(717.963 326.175) rotate(180) scale(20.251 20.2505)"
             >
-              <stop stop-color="#FB8F8F" />
-              <stop offset="1" stop-color="#F9C1DA" stop-opacity="0" />
+              <stop stopColor="#FB8F8F" />
+              <stop offset="1" stopColor="#F9C1DA" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint40_radial"
@@ -1644,8 +1208,8 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(711.987 314.392) rotate(180) scale(40.1625)"
             >
-              <stop stop-color="white" />
-              <stop offset="1" stop-color="#F1D23C" stop-opacity="0" />
+              <stop stopColor="white" />
+              <stop offset="1" stopColor="#F1D23C" stopOpacity="0" />
             </radialGradient>
             <radialGradient
               id="paint41_radial"
@@ -1655,34 +1219,14 @@ export default function home() {
               gradientUnits="userSpaceOnUse"
               gradientTransform="translate(687.667 272.902) rotate(180) scale(20.8653)"
             >
-              <stop stop-color="#FA404B" />
-              <stop offset="0.025" stop-color="#FA484F" stop-opacity="0.975" />
-              <stop
-                offset="0.1916"
-                stop-color="#FC7565"
-                stop-opacity="0.8084"
-              />
-              <stop
-                offset="0.3589"
-                stop-color="#FD9B78"
-                stop-opacity="0.6411"
-              />
-              <stop
-                offset="0.5244"
-                stop-color="#FEB886"
-                stop-opacity="0.4756"
-              />
-              <stop
-                offset="0.6876"
-                stop-color="#FECD91"
-                stop-opacity="0.3124"
-              />
-              <stop
-                offset="0.8474"
-                stop-color="#FFDA97"
-                stop-opacity="0.1526"
-              />
-              <stop offset="1" stop-color="#FFDE99" stop-opacity="0" />
+              <stop stopColor="#FA404B" />
+              <stop offset="0.025" stopColor="#FA484F" stopOpacity="0.975" />
+              <stop offset="0.1916" stopColor="#FC7565" stopOpacity="0.8084" />
+              <stop offset="0.3589" stopColor="#FD9B78" stopOpacity="0.6411" />
+              <stop offset="0.5244" stopColor="#FEB886" stopOpacity="0.4756" />
+              <stop offset="0.6876" stopColor="#FECD91" stopOpacity="0.3124" />
+              <stop offset="0.8474" stopColor="#FFDA97" stopOpacity="0.1526" />
+              <stop offset="1" stopColor="#FFDE99" stopOpacity="0" />
             </radialGradient>
           </defs>
         </svg>
