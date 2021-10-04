@@ -28,20 +28,20 @@ const home3 = () => {
           </div>
           <div className="flex items-center space-x-10">
             <nav className="space-x-5">
-              <Link to="/">
+              <Link href="/">
                 <span className="text-home1-h1 font-medium">Home</span>
               </Link>
 
-              <Link to="/">
+              <Link href="/">
                 <span className="text-home1-h1 font-medium">About</span>
               </Link>
-              <Link to="/">
+              <Link href="/">
                 <span className="text-home1-h1 font-medium">How it works</span>
               </Link>
-              <Link to="/">
+              <Link href="/">
                 <span className="text-home1-h1 font-medium">Services</span>
               </Link>
-              <Link to="/">
+              <Link href="/">
                 <span className="text-home1-h1 font-medium">Contact</span>
               </Link>
             </nav>
